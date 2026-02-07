@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Umut Duran! 👋 <br>Merhaba, Ben Umut Duran!</h1>
+<h1 align="center"> Hi there, I'm Umut Duran! 👋 <br>Merhaba, Ben Umut Duran!</h1>
 
-<h3 align="center">Backend Developer | .NET Core Enthusiast | Algorithmic Trader</h3>
+<h3 align="center">.NET Backend Developer | C# | .NET Core | DevOps Enthusiast | Electronic & Communication Tech Student</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/umut--duran">
@@ -60,6 +60,7 @@
 **Database (Veritabanı)**
 <br>
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 **Tools (Araçlar)**
 <br>
